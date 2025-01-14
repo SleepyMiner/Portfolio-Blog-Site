@@ -5,7 +5,7 @@ theme = "hugo-profile"
 Paginate = 3
 enableRobotsTXT = true
 
-disqusShortname = "disqus_jBWA16oHX4"
+disqusShortname = "SleepyMiner"
 
 [outputs]
 home = [ "HTML", "RSS", "JSON" ]
