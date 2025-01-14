@@ -1,4 +1,4 @@
-baseURL = "https://swayam-gupta.netlify.app/"
+baseURL = "https://sleepyminer.github.io/Portfolio-Blog-Site/"
 languageCode = "en-us"
 title = "Swayam Gupta"
 theme = "hugo-profile"
@@ -18,7 +18,6 @@ name = "Blog"
 title = "Blog posts"
 url = "/blogs"
 weight = 1
-
 
 [params]
 title = "Swayam Gupta"
@@ -80,7 +79,7 @@ url = "https://github.com/SleepyMiner"
 
 [[params.hero.socialLinks.fontAwesomeIcons]]
 icon = "fab fa-linkedin"
-url = "www.linkedin.com/in/swayam-gupta-830ab227b"
+url = "https://www.linkedin.com/in/swayam-gupta-830ab227b"
 
 [[params.hero.socialLinks.fontAwesomeIcons]]
 icon = "fab fa-instagram"
@@ -276,7 +275,7 @@ disableFeaturedImage = false
 
 [params.footer.socialNetworks]
 github = "https://github.com/SleepyMiner"
-linkedin = "www.linkedin.com/in/swayam-gupta-830ab227b"
+linkedin = "https://www.linkedin.com/in/swayam-gupta-830ab227b"
 instagram = "https://www.instagram.com/_swayam_gupta___/"
 
   [params.listPages]
