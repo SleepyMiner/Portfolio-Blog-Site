@@ -19,13 +19,6 @@ title = "Blog posts"
 url = "/blogs"
 weight = 1
 
-[[Menus.main]]
-identifier = "gallery"
-name = "Gallery"
-title = "Blog posts"
-url = "/gallery"
-weight = 2
-
 [params]
 title = "Swayam Gupta"
 description = "Text about me"
