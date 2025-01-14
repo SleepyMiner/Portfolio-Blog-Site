@@ -1,4 +1,4 @@
-baseURL = "https://sleepyminer.github.io/Portfolio-Blog-Site/"
+baseURL = "http://localhost:1313/"
 languageCode = "en-us"
 title = "Swayam Gupta"
 theme = "hugo-profile"
@@ -19,12 +19,6 @@ title = "Blog posts"
 url = "/blogs"
 weight = 1
 
-[[Menus.main]]
-identifier = "gallery"
-name = "Gallery"
-title = "Blog posts"
-url = "/gallery"
-weight = 2
 
 [params]
 title = "Swayam Gupta"
