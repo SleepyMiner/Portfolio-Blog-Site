@@ -1,7 +1,9 @@
 +++
 date = '2025-01-13T20:19:32+05:30'
 draft = false
+author = 'Swayam Gupta'
 title = 'Photo Cloud'
+description=""
 tags = ['SvelteKit', 'PocketBase']
 +++
 
