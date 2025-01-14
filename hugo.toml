@@ -5,6 +5,10 @@ theme = "hugo-profile"
 Paginate = 3
 enableRobotsTXT = true
 
+[services]
+  [services.disqus]
+    shortname = 'disqus_jBWA16oHX4'
+
 [outputs]
 home = [ "HTML", "RSS", "JSON" ]
 page = [ "HTML", "RSS" ]
